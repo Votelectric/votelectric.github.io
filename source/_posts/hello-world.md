@@ -1,38 +1,14 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [Hexo](https://hexo.io/)! 
 
-## Quick Start
+# Hello World
+这就算是咱的第一篇文章了。期末考试周快结束了，咱也是突然想起来之前想做这个，于是花了一点时间把这个GitHub Page架了起来。整体步骤基本就是按照文档来的，只修了主题出现的.git套.git的问题。
+## 叠甲
+本人大一上学期沉溺于引诱之中😄，不想这么浑浑噩噩天天打引诱了，希望写page能促进我自己学点什么吧。
+小时候我就觉得能写自己个人博客的大佬很强，长大后发现自己和他们唯一的共同点似乎就是都在学CS（逃。我也很久没写过东西了，所以措辞文笔或者记录的内容很烂的话敬请谅解qwq。
+## ToDo
+记录自学和解决问题的方法，毕竟能把196课时缩成32课时的学校能教你什么呢（
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+总之初次见面，我是Votelectric，请多指教
