@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2026-01-09 09:54:47
 ---
 Welcome to [Hexo](https://hexo.io/)! 
 
